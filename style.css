@@ -94,7 +94,7 @@ body{
 }
 
 #hero{
-    background-image: url(/image/hero/Hero.png);
+    background-image: url(./image/hero/Hero.png);
     height: 90vh;
     width: 100%;
     background-size: cover;
@@ -112,7 +112,7 @@ body{
     color: #088178;
 }
 #hero button{
-    background-image: url(/image/button/button.png);
+    background-image: url(./image/button/button.png);
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -248,7 +248,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("/image/Banner/wallpaperflare.com_wallpaper.jpg");
+    background-image: url("./image/Banner/wallpaperflare.com_wallpaper.jpg");
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -296,7 +296,7 @@ button.normal{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url("/image/Banner/banner\ 2.jpg");
+    background-image: url("./image/Banner/banner\ 2.jpg");
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -335,7 +335,7 @@ button.white{
     border:  1px solid #088178;
 }
 #sm-banner .banner-box2{
-    background-image: url(/image/Banner/banner\ 3.jpg);
+    background-image: url(./image/Banner/banner\ 3.jpg);
 }
 #newsletter{
     display: flex;
@@ -603,7 +603,7 @@ footer a{
 
 /* Shop page */
 #page-header{
-    background-image: url(/image/Banner/b1.jpg);
+    background-image: url(./image/Banner/b1.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -676,7 +676,7 @@ footer a{
 
 /* about */
 #page-header.about-header{
-    background-image: url(/image/About/banner.png);
+    background-image: url(./image/About/banner.png);
 }
 #about-head{
     display: flex;
